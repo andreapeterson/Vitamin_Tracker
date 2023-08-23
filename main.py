@@ -26,7 +26,7 @@ graph_params = {
 }
 
 pixel_params = {
-    "date": "20230808",
+    "date": TODAY,
     "quantity": "5",
 }
 
